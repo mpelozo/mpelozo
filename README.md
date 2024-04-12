@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sofía Rocher</h1>
-<h3 align="center">A passionate frontend developer and content creator from Argentina.</h3>
+<h1 align="center">Hi 👋, I'm Mauricio Pelozo</h1>
+<h3 align="center">A passionate frontend developer from Argentina.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiarocher&label=Profile%20views&color=0e75b6&style=flat" alt="sofiarocher" /> </p>
 
-- 🔭 I’m currently working on [website-for-C](https://github.com/sofiarocher/website-for-C)
+- 🔭 I am currently engaged in freelance work.
 
 - 🌱 I’m currently improving my **Frontend Tech Stack**
 
-- 👨‍💻 All of my projects are available at [https://sofiarocher.com/](https://sofiarocher.com/)
-
-- 📝 I regularly write on [https://www.linkedin.com/in/sofiarocher/](https://www.linkedin.com/in/sofiarocher/)
+- 📝 I regularly write on [https://www.linkedin.com/in/mauricio-pelozo-71337528b/)
 
 - 💬 Ask me about **freelancing, how to start, everything you want**
 
-- 📫 How to reach me **srocher.dev@gmail.com**
+- 📫 How to reach me **Mauripelozo27@gmail.com**
 
 - ⚡ A fact **I love to help more devs, that's why I make content.**
 
