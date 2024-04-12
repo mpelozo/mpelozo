@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiarocher&show_icons=true&locale=en" alt="sofiarocher" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiarocher&" alt="sofiarocher" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiarocher&" alt="Mauricio Pelozo" /></p>
